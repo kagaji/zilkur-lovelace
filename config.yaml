@@ -1,5 +1,5 @@
 name: Zilkur Lovelace
-version: 1.0.14
+version: 0.0.1
 slug: zilkur-lovelace
 description: This tool can be used to display a Lovelace view of your Home Assistant instance on a Zilkur device.
 startup: application
